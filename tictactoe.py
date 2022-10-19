@@ -97,5 +97,5 @@ elif(Game==Won):
 print("                        GAME OVER\n")
 
 
-# print("Give a star to this repo and follow Vinayak Pandey AKA Harpia-Vieillot")
+print("Give a star to this repo")
 
