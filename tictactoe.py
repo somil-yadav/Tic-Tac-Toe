@@ -1,3 +1,4 @@
+from msvcrt import kbhit
 import os    
 import time
 
@@ -63,7 +64,6 @@ def getwinner():
     else:            
         Game=Ongoing    
     
-
 print("%s [X] --- %s [O]\n\n" % (pl, pll))   
 print("Please Wait...")    
 time.sleep(3)    
